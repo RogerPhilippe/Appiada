@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Appiada</string>
+    <string name="button_new_joker">Conte outra piada</string>
+    <!-- Jokers -->
+    <string name="joker_one">Qual a bebiba favorita dos marcianos?\nR: Chá marte.</string>
+    <string name="joker_two">Por que o pinheiro não se perde na floresta?\nR: Porque ele tem uma pinha.</string>
+    <string name="joker_three">Um caipira chega à casa de um amigo que está vendo TV e pergunta:\n-e aí, firme?\nO outro responde:\n-Não,futebor.</string>
+    <string name="joker_four">O que um pagodeiro foi fazer na igreja?\nR: Foi cantar PÁ GOD.</string>
+    <string name="joker_five">Por que o Napoleão era chamado sempre paras festas?\nR: Porque ele era BOM NA PARTY.</string>
+    <string name="joker_six">Qual é o rei dos queijos?\nR: É o reiqueijão.</string>
+    <string name="joker_seven">Por que a velhinha não usa relógio?\nR: Porque ela é senhora.</string>
+    <string name="joker_eight">O que a Xuxa foi fazer no bar?\nR: Foi beber ca sasha.</string>
+    <string name="joker_nine">Quando os americanos comeram carne pela primeira vez?\nR: Quando chegou Cristovão Com Lombo.</string>
+    <string name="joker_ten">Havia dois caminhões voando e um caiu. Por que o outro continuou voando?\nR: Porque era caminhão-pipa.</string>
+    <string name="joker_eleven">Por que a aranha é o animal mais carente do mundo?\nR: Porque ela é um aracneedyou.</string>
+</resources>
